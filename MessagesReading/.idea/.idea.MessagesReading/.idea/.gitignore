@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.MessagesReading.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Customers\VONE\Messages-reading\MessagesReading\.idea\.idea.MessagesReading\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
